@@ -32,6 +32,8 @@ The Metal Detector Alarm project is developed as an assignment for a school clas
 * Download and install the required software dependencies on your Raspberry Pi Pico.
 * Upload the project code onto the Raspberry Pi Pico.
 * Power on the Raspberry Pi Pico.
+### You may refer to the provided Wire Plan image in this project
+![Wire_Plan_0528.png](Wire_Plan_0528.png)
 
 ## Usage
 
