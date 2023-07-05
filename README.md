@@ -48,7 +48,7 @@ The Metal Detector Alarm project is developed as an assignment for a school clas
 
 ## License
 
-This project is licensed under the **Academic License**. The code and resources provided in this project are intended solely for educational purposes and cannot be used for commercial purposes. No warranty or guarantee is provided regarding the reliability of the code in the `i2c_lcd.py` and `lcd_api.py` files, as the lecturer provided them.
+This project is licensed under the **MIT License**. No warranty or guarantee is provided regarding the reliability of all codes. Please refer to the LICENSE file for more details.
 
 ## Acknowledgments
 
