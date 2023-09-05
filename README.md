@@ -34,6 +34,8 @@ The Metal Detector Alarm project is developed as an assignment for a school clas
 * Power on the Raspberry Pi Pico.
 ### You may refer to the provided Wire Plan image in this project
 ![Wire_Plan_0528.png](Wire_Plan_0528.png)
+### This demonstration video might also help
+https://github.com/LX-Vincent/Metal_Detector_Alarm/issues/1#issue-1881388293
 
 ## Usage
 
